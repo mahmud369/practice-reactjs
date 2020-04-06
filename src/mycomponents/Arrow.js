@@ -7,8 +7,8 @@ const Arrow=()=>{
     }
 
     return(
-        <button className="btn btn-xs btn-success" onClick={MySum.bind(this, 12, 18)}>
-            MyButton
+        <button className="btn btn-xs btn-warning" onClick={MySum.bind(this, 35, 65)}>
+            Show Sum
         </button>
     );
 }

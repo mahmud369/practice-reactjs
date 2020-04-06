@@ -7,15 +7,17 @@ import Welcome from './mycomponents/Welcome';
 import Category from './mycomponents/Category';
 import Arrow from './mycomponents/Arrow';
 import MyStates from './mycomponents/MyStates';
+import MyDynamicStates from './mycomponents/MyDynamicStates';
 
 function App() {
   return (
     <div className="App">
-      <Hello name="Mahmud" age="30"/>
+      {/* <Hello name="Mahmud" age="30"/>
       <Welcome name="ARM Head Office"/>
       <Category/>
       <Arrow/>
-      <MyStates/>
+      <MyStates/> */}
+      <MyDynamicStates/>
     </div>
   );
 }

@@ -1,5 +1,6 @@
-1. Download Node_Modules from below Link, 
-2. Unzip & 
-3. Keep in the root directory:
+1. Download the "node_modules.zip" file from below Link 
+2. Unzip as "node_modules" folder in the root directory
+
+DOWNLOAD LINK:
 
 https://drive.google.com/file/d/1s-o0g3348KoWfzqYBNgJ-bu8GaBVwaOV/view?usp=sharing

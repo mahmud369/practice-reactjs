@@ -8,19 +8,26 @@ import Category from './mycomponents/Category';
 import Arrow from './mycomponents/Arrow';
 import MyStates from './mycomponents/MyStates';
 import MyDynamicStates from './mycomponents/MyDynamicStates';
+import Refresh from './mycomponents/Refresh';
+import MyReactDom from './mycomponents/MyReactDom';
 
 function App() {
   return (
     <div className="App">
-      {/* <Hello name="Mahmud" age="30"/>
+      {/* 
+      <Hello name="Mahmud" age="30"/>
       <Welcome name="ARM Head Office"/>
       <Category/>
       <Arrow/>
-      <MyStates/> */}
+      <MyStates/> 
       <MyDynamicStates/>
+      <Refresh/>
+      */}
+      <MyReactDom/>
     </div>
   );
 }
+
 /*
 function App() {
   return (

@@ -10,6 +10,8 @@ import MyStates from './mycomponents/MyStates';
 import MyDynamicStates from './mycomponents/MyDynamicStates';
 import Refresh from './mycomponents/Refresh';
 import MyReactDom from './mycomponents/MyReactDom';
+import MyDomNode from './mycomponents/MyDomNode';
+import MyForm from './mycomponents/MyForm';
 
 function App() {
   return (
@@ -22,8 +24,10 @@ function App() {
       <MyStates/> 
       <MyDynamicStates/>
       <Refresh/>
-      */}
       <MyReactDom/>
+      <MyDomNode/>
+      */}
+      <MyForm/>
     </div>
   );
 }
